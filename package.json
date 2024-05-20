@@ -20,7 +20,7 @@
     "@fontsource/roboto-mono": "~5.0",
     "@vscode/gulp-vinyl-zip": "~2.5",
     "autoprefixer": "~9.7",
-    "browser-pack-flat": "~3.4",
+    "browser-pack-flat": "~3.5",
     "browserify": "~17.0",
     "cssnano": "^7.0.1",
     "eslint": "~6.8",
